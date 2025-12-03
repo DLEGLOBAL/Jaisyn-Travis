@@ -1,0 +1,8 @@
+{
+  "name": "LovePop",
+  "description": "A high-stakes dating elimination game powered by AI. Play as the Picker and pop the balloons of contestants to find your match.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
